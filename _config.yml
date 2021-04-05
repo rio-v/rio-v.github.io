@@ -1,2 +1,3 @@
 name: The importance of p-values
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
