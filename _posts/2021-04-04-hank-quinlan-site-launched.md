@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "P-Hacking and why you shouldn't do it"
 date: 2014-04-30
 ---
 
