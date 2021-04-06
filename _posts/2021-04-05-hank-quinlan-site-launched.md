@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The meaning of "P-value", and what "P-Hacking" is"
-date: 2021-04-04
+date: 2021-04-05
 ---
 
 The p-value might be the most commonly used statistic in research in almost every scientific field you can think of. And yet, it is also one of the most commonly misunderstood. According to Motulsky (2014), under the assumption that the null hypothesis is true, the probability of observing a phenomenon of equal or greater magnitude than the one observed in the current study is what a p-value tells the researcher conducting the study. As much as we want to know how likely the null hypothesis is given the data we’ve collected, what a p-value actually tells you is how unlikely the data is assuming that the null hypothesis is true (Motulsky, 2014). The p-value also gives the researcher no information about the effect size, and a small p-value is not an indicator of a large effect size. 
