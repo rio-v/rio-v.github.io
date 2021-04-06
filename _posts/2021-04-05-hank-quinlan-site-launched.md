@@ -4,12 +4,4 @@ title: "The meaning of "P-value", and what "P-Hacking" is"
 date: 2021-04-05
 ---
 
-The p-value might be the most commonly used statistic in research in almost every scientific field you can think of. And yet, it is also one of the most commonly misunderstood. According to Motulsky (2014), under the assumption that the null hypothesis is true, the probability of observing a phenomenon of equal or greater magnitude than the one observed in the current study is what a p-value tells the researcher conducting the study. As much as we want to know how likely the null hypothesis is given the data we’ve collected, what a p-value actually tells you is how unlikely the data is assuming that the null hypothesis is true (Motulsky, 2014). The p-value also gives the researcher no information about the effect size, and a small p-value is not an indicator of a large effect size. 
-	Another thing to be wary of when conducting scientific research is p-hacking. P-hacking is the act of re-doing certain parts of an experiment until a desirable result is achieved, namely one where a p-value of less than the significance level is attained and the word “significant” can be added to the publication. You can get an idea of how p-hacking might be done by reading the article Science isn’t broken by Aschwanden (2015). The article includes an interactive figure that is used to explore how the U.S. economy is affected when the Democrats are in office vs. when the Republicans are in office. The figure let’s you select how you want to define a party “being in office”, as well as how “the economy” is measured. After a few minutes of playing with the figure, you should begin to notice that it is possible to attain “significant” results in favor of both parties. While this may make the scientific process seem like a broken one, that is not the intention of Aschwanden’s article or this blog post. The scientific method for conducting research is difficult, but that doesn’t make the process broken. And at the moment, it is the best method we have for conducting research. But just because something is difficult, doesn’t mean it isn’t worth it.
-
-
-References
-
-Motulsky, H. J. (2014). Common misconceptions about data analysis and statistics. Naunyn-Schmiedeberg’s Archives of Pharmacology, 387(11), 1017–1023. https://doi.org/10.1007/s00210-014-1037-6
-
-Aschwanden, C. (2015). Science Isn’t Broken: It’s just a hell of a lot harder than we give it credit for. Retrieved from https://fivethirtyeight.com/features/science-isnt-broken
+Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
